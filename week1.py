@@ -65,7 +65,7 @@ def Counting0zz(Num2b):
   #rstrip removes specified character from end of string until reaching a character that differs.  
   
 
-Counting0zz(5)
+Counting0zz(5)#ex
 
 
 
